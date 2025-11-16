@@ -1,0 +1,461 @@
+{
+  "orders": [
+    {
+      "id": "1",
+      "number": "1290",
+      "date": "25.10.2025",
+      "marketplace": "Озон",
+      "totalPallets": "12",
+      "SKU": 10,
+      "plan": 1278,
+      "fact": 1290,
+      "pallets": [
+        {
+          "number": "1",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "1",
+          "statusMix": "0"
+        },
+        {
+          "number": "2",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "2",
+          "statusMix": "1"
+        },
+        {
+          "number": "3",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "0",
+          "statusMix": "3"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "number": "1291",
+      "date": "14.06.2025",
+      "marketplace": "ВБ",
+      "totalPallets": "2",
+      "SKU": 7,
+      "plan": 452,
+      "fact": 158,
+      "pallets": [
+        {
+          "number": "1",
+          "mono": "94",
+          "mix": "12",
+          "withoutDM": "64",
+          "SUMM": "170",
+          "storeKeeper": "Оля Артур",
+          "statusMono": "0",
+          "statusMix": "4"
+        },
+        {
+          "number": "2",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "number": "2225",
+      "date": "14.06.2025",
+      "marketplace": "ВБ",
+      "totalPallets": "2",
+      "SKU": 7,
+      "plan": 1492,
+      "fact": 211,
+      "pallets": [
+        {
+          "number": "1",
+          "mono": "94",
+          "mix": "12",
+          "withoutDM": "64",
+          "SUMM": "170",
+          "storeKeeper": "Егор Саша",
+          "statusMono": 1,
+          "statusMix": 1
+        },
+        {
+          "number": "2",
+          "mono": "94",
+          "mix": "12",
+          "withoutDM": "64",
+          "SUMM": "170",
+          "storeKeeper": "Оля Артур",
+          "statusMono": "0",
+          "statusMix": "5"
+        },
+        {
+          "number": "3",
+          "mono": "94",
+          "mix": "12",
+          "withoutDM": "64",
+          "SUMM": "170",
+          "storeKeeper": "Лысак А.",
+          "statusMono": "0",
+          "statusMix": "3"
+        },
+        {
+          "number": "4",
+          "mono": "94",
+          "mix": "12",
+          "withoutDM": "64",
+          "SUMM": "170",
+          "storeKeeper": "Оля Витя",
+          "statusMono": "2",
+          "statusMix": "4"
+        }
+      ]
+    },
+    {
+      "0": {
+        "number": "1",
+        "mono": "94",
+        "mix": "12",
+        "withoutDM": "64",
+        "SUMM": "170",
+        "storeKeeper": "Оля Артур",
+        "statusMono": "2",
+        "statusMix": "2"
+      },
+      "1": {
+        "number": "2",
+        "mono": "89",
+        "mix": "0",
+        "without DM": "81",
+        "SUMM": "170",
+        "storeKeeper": "Молчан Олеся",
+        "statusMono": "4",
+        "statusMix": "0"
+      },
+      "2": {
+        "number": "3",
+        "mono": "89",
+        "mix": "0",
+        "without DM": "81",
+        "SUMM": "170",
+        "storeKeeper": "Молчан Олеся",
+        "statusMono": "0",
+        "statusMix": "0"
+      },
+      "3": {
+        "number": "4",
+        "mono": "89",
+        "mix": "0",
+        "without DM": "81",
+        "SUMM": "170",
+        "storeKeeper": "Молчан Олеся",
+        "statusMono": "0",
+        "statusMix": "0"
+      },
+      "4": {
+        "number": "5",
+        "mono": "89",
+        "mix": "0",
+        "without DM": "81",
+        "SUMM": "170",
+        "storeKeeper": "Молчан Олеся",
+        "statusMono": "0",
+        "statusMix": "0"
+      },
+      "5": {
+        "number": "6",
+        "mono": "89",
+        "mix": "0",
+        "without DM": "81",
+        "SUMM": "170",
+        "storeKeeper": "Молчан Олеся",
+        "statusMono": "0",
+        "statusMix": "0"
+      },
+      "6": {
+        "number": "7",
+        "mono": "89",
+        "mix": "0",
+        "without DM": "81",
+        "SUMM": "170",
+        "storeKeeper": "Молчан Олеся",
+        "statusMono": "0",
+        "statusMix": "0"
+      },
+      "7": {
+        "number": "8",
+        "mono": "89",
+        "mix": "0",
+        "without DM": "81",
+        "SUMM": "170",
+        "storeKeeper": "Молчан Олеся",
+        "statusMono": "3",
+        "statusMix": "0"
+      },
+      "8": {
+        "number": "9",
+        "mono": "89",
+        "mix": "0",
+        "without DM": "81",
+        "SUMM": "170",
+        "storeKeeper": "Молчан Олеся",
+        "statusMono": "0",
+        "statusMix": "0"
+      },
+      "9": {
+        "number": "10",
+        "mono": "89",
+        "mix": "0",
+        "without DM": "81",
+        "SUMM": "170",
+        "storeKeeper": "Молчан Олеся",
+        "statusMono": "0",
+        "statusMix": "4"
+      },
+      "10": {
+        "number": "11",
+        "mono": "89",
+        "mix": "0",
+        "without DM": "81",
+        "SUMM": "170",
+        "storeKeeper": "Молчан Олеся",
+        "statusMono": "3",
+        "statusMix": "3"
+      },
+      "11": {
+        "number": "12",
+        "mono": "89",
+        "mix": "0",
+        "without DM": "81",
+        "SUMM": "170",
+        "storeKeeper": "Молчан Олеся",
+        "statusMono": "5",
+        "statusMix": "0"
+      },
+      "12": {
+        "number": "13",
+        "mono": "89",
+        "mix": "0",
+        "without DM": "81",
+        "SUMM": "170",
+        "storeKeeper": "Молчан Олеся",
+        "statusMono": "0",
+        "statusMix": "1"
+      },
+      "13": {
+        "number": "14",
+        "mono": "89",
+        "mix": "0",
+        "without DM": "81",
+        "SUMM": "170",
+        "storeKeeper": "Молчан Олеся",
+        "statusMono": "0",
+        "statusMix": "1"
+      },
+      "14": {
+        "number": "15",
+        "mono": "89",
+        "mix": "0",
+        "without DM": "81",
+        "SUMM": "170",
+        "storeKeeper": "Молчан Олеся",
+        "statusMono": "3",
+        "statusMix": "0"
+      },
+      "15": {
+        "number": "16",
+        "mono": "89",
+        "mix": "0",
+        "without DM": "81",
+        "SUMM": "170",
+        "storeKeeper": "Молчан Олеся",
+        "statusMono": "2",
+        "statusMix": "1"
+      },
+      "id": "4",
+      "number": "2202",
+      "date": "14.06.2025",
+      "marketplace": "Озон",
+      "totalPallets": "16",
+      "SKU": 7,
+      "plan": 2050,
+      "fact": 976,
+      "pallets": [
+        {
+          "number": "1",
+          "mono": "94",
+          "mix": "12",
+          "withoutDM": "64",
+          "SUMM": "170",
+          "storeKeeper": "Оля Артур",
+          "statusMono": "2",
+          "statusMix": "2"
+        },
+        {
+          "number": "2",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": 1,
+          "statusMix": "0"
+        },
+        {
+          "number": "3",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "0",
+          "statusMix": 6
+        },
+        {
+          "number": "4",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "0",
+          "statusMix": "0"
+        },
+        {
+          "number": "5",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": 4,
+          "statusMix": "0"
+        },
+        {
+          "number": "6",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "0",
+          "statusMix": "0"
+        },
+        {
+          "number": "7",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "0",
+          "statusMix": "0"
+        },
+        {
+          "number": "8",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "3",
+          "statusMix": "0"
+        },
+        {
+          "number": "9",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "0",
+          "statusMix": "0"
+        },
+        {
+          "number": "10",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "0",
+          "statusMix": "4"
+        },
+        {
+          "number": "11",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "3",
+          "statusMix": "3"
+        },
+        {
+          "number": "12",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "5",
+          "statusMix": "0"
+        },
+        {
+          "number": "13",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "0",
+          "statusMix": "1"
+        },
+        {
+          "number": "14",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "0",
+          "statusMix": "1"
+        },
+        {
+          "number": "15",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "3",
+          "statusMix": "0"
+        },
+        {
+          "number": "16",
+          "mono": "89",
+          "mix": "0",
+          "without DM": "81",
+          "SUMM": "170",
+          "storeKeeper": "Молчан Олеся",
+          "statusMono": "2",
+          "statusMix": "1"
+        }
+      ]
+    }
+  ]
+}
